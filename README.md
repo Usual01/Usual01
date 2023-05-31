@@ -7,4 +7,5 @@
 - 💬 Ask me about anything! I AM HERE FOR YOU!
 - 📫 How to reach me: VIA my various social media handles || mikedami001@gmail.com
 - 😄 Pronouns: ...we..you..me
-- ⚡ Fun fact: ... we go farther together
+- ⚡ Fun fact: ... we go farther together, prefer tabs over spaces(prettier code and less compiler confusing code),
+-  preferred text editors notepad++, vscode, vi.
