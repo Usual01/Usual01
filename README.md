@@ -12,7 +12,6 @@
 - ⚡ Fun fact: ... **we go farther together,I prefer tabs over spaces(prettier code and less compiler confusing code),and my  preferred text editors notepad++, vscode, vi.**
 
 
-- 🔭 I am currently working on **ProjectNow.com Real Estate webstack project**
 
 
 <h3 align="center">Connect with me:</h3>
