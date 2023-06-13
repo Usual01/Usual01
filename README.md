@@ -33,6 +33,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+Check out some of my projects here on GitHub; they cover different topics I studied. 📚
+
+- <a href="https://github.com/Usual01/simple_shell">A simple shell written in C</a>
+- <a href="https://github.com/Usual01/printf">printf project in C</a>
+- <a href="https://github.com/Usual01/AirBnB_clone">AirBnb clone(full app)</a>
+- <a href="https://github.com/Usual01/?Usual01.github.io"> A portgolio</a>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Usual01&show_icons=true&theme=radical&locale=en&layout=compact" michael" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Usual01&show_icons=true&theme=radical&locale=en" alt="usuall0q" /></p>
