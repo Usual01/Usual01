@@ -40,7 +40,73 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 - <a href="https://github.com/Usual01/AirBnB_clone">AirBnb clone(full app)</a>
 - <a href="https://github.com/Usual01/Usual01.github.io"> A portfolio</a>
 
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
+<kbd>
+   <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+  </kbd>
+  
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </kbd>
+  
+   <kbd>
+    <kbd>Frameworks/Libraries</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Databases</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Software/CVS/Build Automation</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+  </kbd>
+  
+   <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
+  </kbd>
+  
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
+  
+   <kbd>
+   <kbd>VM</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
+  </kbd>
+  <br/>
+  <br/>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Usual01&show_icons=true&theme=radical&locale=en&layout=compact" michael" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Usual01&show_icons=true&theme=radical&locale=en" alt="usuall0q" /></p>
