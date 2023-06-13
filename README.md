@@ -38,7 +38,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 - <a href="https://github.com/Usual01/simple_shell">A simple shell written in C</a>
 - <a href="https://github.com/Usual01/printf">printf project in C</a>
 - <a href="https://github.com/Usual01/AirBnB_clone">AirBnb clone(full app)</a>
-- <a href="https://github.com/Usual01/?Usual01.github.io"> A portgolio</a>
+- <a href="https://github.com/Usual01/Usual01.github.io"> A portfolio</a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Usual01&show_icons=true&theme=radical&locale=en&layout=compact" michael" /></p>
