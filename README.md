@@ -16,7 +16,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emdee_emdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dzooosh" height="30" width="40" /></a>
+<a href="https://twitter.com/emdee_emdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Usual01" height="30" width="40" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+developer.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
+
+</h3>
 <a href="[https://www.linkedin.com/in/oluwadamilola-peter-776aab180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael peter" height="30" width="40" /></a>
 </p>
 
