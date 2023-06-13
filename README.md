@@ -22,70 +22,12 @@
 </h3>
 <a href="[https://www.linkedin.com/in/oluwadamilola-peter-776aab180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael peter" height="30" width="40" /></a>
 </p>
-    <br>
-
-    <br>
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  </kbd>
-
+    
   
 
-  <kbd>
-
-    <kbd>Software/CVS/Build Automation</kbd>
-
-    <br>
-
-    <br>
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
-
-  </kbd>
-
   
-
-   <kbd>
-
-    <kbd>Tools</kbd>
-
-    <br>
-
-    <br>
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
-
-  </kbd>
-
-  
-
-  <kbd>
-
-    <kbd>OS</kbd>
-
-    <br>
-
-    <br>
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-
-  </kbd>
-
-  
-
-   <kbd>
-
-   <kbd>VM</kbd>
-
+    
+    
     <br>
 
     <br>
