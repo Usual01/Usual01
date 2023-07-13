@@ -111,7 +111,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   <br/>
   <br/>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Usual01&show_icons=true&theme=radical&locale=en&layout=compact" michael" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Usual01&show_icons=true&theme=radical&locale=en&layout=compact" michael" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Usual01&show_icons=true&theme=radical&locale=en" alt="usuall0q" /></p>
 
