@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with **landing jobs**
 - 💬 Ask me about anything! I AM HERE FOR YOU!
 - 📫 How to reach me: VIA my **various social media handles || mikedami001@gmail.com**
-- 😄 Pronouns: ...**we..you..me**
+- 😄 Pronouns: ...**He/Him**
 - ⚡ Fun fact: ... **we go farther together,I prefer tabs over space(prettier code and less compiler confusing code),and my  preferred text editors notepad++, vscode, vi.**
 
 
