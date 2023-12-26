@@ -12,7 +12,8 @@
 - ⚡ Fun fact: ... **we go farther together,I prefer tabs over space(prettier code and less compiler confusing code),and my  preferred text editors notepad++, vscode, vi.**
 
 
-
+<a href="[https://www.youtube.com/@OutsideInnn?ub_confirmation=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=YouTube" height="30" width="40" /></a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
